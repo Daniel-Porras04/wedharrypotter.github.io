@@ -62,6 +62,7 @@ article{
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
+        background-color: black;
 }
 
 
@@ -72,6 +73,8 @@ article{
         justify-content: center;
         align-items: center;
         display: flex;
+        background-color: white;
+
 }
 
 .contenido1{
