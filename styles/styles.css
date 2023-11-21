@@ -111,15 +111,6 @@ article{
 
         font-size: 1.10em;
 }
-#contenido2{
-        height: 55vh;
-        width: 50vw;
-        margin-top: 12vh;
-        overflow: hidden;
-        display: block;
-        display: flex;
-        
-}
 
 video{
         width: 100%;
