@@ -96,7 +96,7 @@ background-image:  repeating-linear-gradient(0deg, #000000, #000000 1px, #5b1608
     justify-content: center;
     align-items: center;
 
-    background-image: url(/IMG/pergamino.png);
+    background-image: url(../IMG/pergamino.png);
     background-size: cover;
     background-position: center;
 
